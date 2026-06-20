@@ -15,6 +15,40 @@ Traditional tunneling relies on standard cylindrical bores. This framework utili
 
 * **Volumetric Efficiency:** This geometry maximizes internal cross-sectional area relative to excavational tool wear, providing native flat surfaces for internal bulkheads without requiring extensive secondary concrete backfilling. It also utilizes the geology of the earth's crust to its advantage at a length scale of approximately 150 km chord length, which creates maximum depth roughly 500 m.
 
+* **Diagram/Drawing:** *
+(Earth Center)
+                             [•]
+                            / | \
+                           /  |  \
+                          /   |   \
+                         /    |    \
+                        /     |     \
+     Earth Radius      /      |      \      Earth Radius
+     R ≈ 6371 km      /       |       \     R ≈ 6371 km
+                     /     θ  |  θ     \
+                    /         |         \
+                   /          |          \
+                  /           |           \
+                 /            |            \
+                /             |             \
+               /              |              \
+              /               |               \
+             /                |                \
+            /  _ . - - - - - -|- - - - - - . _  \  <- Earth Surface (Arc)
+           / .                |                . \    s ≈ 150.015 km
+          /.                  |                  .\
+         /--------------------|--------------------\
+    [Node A]                  |                    [Node B]
+       \                      |                      /
+        \                     v                     /
+         \            Max Sagitta Depth            /
+          \              h ≈ 441.25 m             /
+           \                                     /
+            \_______ CHORD LENGTH (d) __________/
+                          150 km
+
+Caption: This, for example, could model a perfectly linear tunnel connecting Chicago, IL USA to Kalamazoo, Michigan, USA. By achieving perfect linearity and staying entirely underground, the tunnel becomes a new form of infrastructure with extraordinary potential.
+
 ### 1.2 Geotechnical Feasibility & Initial Network Topology
 This specification targets a continental-scale, deep-subterranean corridor. The proposed foundational network links the following primary nodes:
 $$\text{Chicago} \rightarrow \text{Detroit} \rightarrow \text{Cleveland} \rightarrow \text{Pittsburgh} \rightarrow \text{Baltimore/D.C.} \rightarrow \text{Philadelphia} \rightarrow \text{New York}$$
@@ -40,6 +74,8 @@ The foundational infrastructure relies on a **perfectly linear, modular chassis 
 ### 2.2 Cross-Section Example Specification for Infrastructure Co-Location
 The finished tunnel cross-section leverages the secant chord intersections to divide the vault into functional zones, maximizing multi-disciplinary utility. One such arrangement might be studied as follows (it is not a claim in the project that this choice is optimal for every use case):
 
+* **Diagram/Drawing:** *
+
      ___________________________
    /      \               /      \
   /  Left  \   Central   / Right  \
@@ -49,6 +85,10 @@ The finished tunnel cross-section leverages the secant chord intersections to di
 |=============|=========|===========|
 |  [Cryo/LPA] | [Track] | [Chassis] |
  \___________/___________\_________/
+
+*
+
+Caption: Illustration of transit use case. Sections can be mounted to the chassis, taking up only a portion of the cross sectional area.
 
  * **Central Plenum:** Dedicated to primary vehicular transit (and future pneumatic atmospheric management).
 * **Lateral Plenums (Left/Right):** Dedicated to high-volume atmospheric management, drainage, high-speed fiber conduits, and industrial utility trunk lines.
@@ -64,7 +104,59 @@ The infrastructure does not require the invention of new vehicular technology to
 ## Part 3: Advanced Technology Potential and Suggested Research
 
 ### 3.1 Pneumatic Helium Propulsion Tube Transit System (PuMP)
-Beyond standard rail, the unique, sealed nature of this subterranean network makes it a viable testbed for advanced physics and propulsion technologies that are mechanically or environmentally impossible to deploy on the Earth's surface:
+Beyond standard rail, the unique, sealed nature of this subterranean network makes it a viable testbed for advanced physics and propulsion technologies that are mechanically or environmentally impossible to deploy on the Earth's surface
+
+* **Diagram/Drawing:** *
+_________________________________________
+               /                 |                       \
+              /    LEFT PLENUM   |     RIGHT PLENUM       \
+             /  (Utility/LPA Zone)| (Utility/Chassis Zone)  \
+            /                    |                           \
+           /     .--------------.|.--------------.            \
+          /     /  ___________  \|/  ___________  \            \
+         /     /  /           \  |  /           \  \            \
+        /     |  |  Liquid He  | | | High-Voltage|  |            \
+       |      |  |  Cryo Line  | | | DC Utilities|  |             |
+       |      |   \___________/  |  \___________/   |             |
+       |       \        |        |        |        /              |
+=======|========\=======|========|========|=======/===============|=======
+       |         |      |        |        |      |                |
+       |         |   [Mount]     |     [Mount]   |                |
+       |         |      |        |        |      |                |
+       |    [Anchor]====#========|========#====[Anchor]           |
+       |    ========|===#========|========#====|=======           |
+       |            |   |   _____|_____   |    |                  |
+       |            |   |  /     |     \  |    |                  |
+       |            |   | /      |      \ |    |                  |
+       |            |   | |   CENTRAL   | |    |                  |
+       |            |   | |   PLENUM    | |    |                  |
+       |            |   | |             | |    |                  |
+       |            |   | |   SEALED    | |    |                  |
+       |   1 ATM    |   | |   TRANSIT   | |    |      1 ATM       |
+       | MAINTENANCE|   | |    TUBE     | |    |   MAINTENANCE    |
+       |  CORRIDOR  |   | |             | |    |    CORRIDOR      |
+       | (Walkable/ |   | |   (Closed-  | |    |   (Walkable/     |
+       | Easy Access|   | |   Loop He   | |    |   Easy Access)   |
+       |            |   | |   Matrix)   | |    |                  |
+       |            |   | \             / |    |                  |
+       |            |   |  \___________/  |    |                  |
+       |            |   |        |        |    |                  |
+       |         |  |   |     [Mount]     |    |  |               |
+       |         |  |   |        |        |    |  |               |
+       |    [Anchor]====#========|========#====[Anchor]           |
+       |    ========|===#========|========#====|=======           |
+       |         |      |                 |      |                |
+       |         \      |                 |      /                |
+        \         \____/__________________\____/                 /
+         \                       |                              /
+          \                      |                             /
+           \             STRUCTURAL CHORDS                    /
+            \            (Internal Bulkheads)                /
+             \___________________|__________________________/
+
+*
+
+Caption: The above diagram is an example of one possible arrangement of tubes and service access mounted via chassis to the walls of the tunnel. Many arrangements are possible, and no particular arrangement is suggested in this project. Only that the arrangement be highly adaptable, expandable, and servicable.
 
 * **Monatomic Gas as Pneumatic Media:** *Rather than altering the ambient atmosphere of the tunnel itself, dedicated transit tubes mounted to the chassis are filled with a controlled, closed-loop, low-density helium atmosphere. This drastically reduces the aerodynamic drag coefficient ($C_d$) and eliminates the surface noise constraints of high-speed displacement, while keeping the gas securely contained away from service corridors. 
 * 
@@ -74,8 +166,54 @@ Beyond standard rail, the unique, sealed nature of this subterranean network mak
 The perfectly linear, stable, vibration-isolated nature of a deep bedrock tunnel over continental length scales creates the ideal environment for high-energy physics infrastructure. 
 
 This framework explicitly discloses the co-location of the **world's largest linear particle accelerator (LPA)** within the secondary lateral plenums of the tunnel structure. The LPA piggybacks directly off the primary transit infrastructure:
+
 * **Shared Helium Infrastructure:** A high-speed pneumatic transit system operating in a low-density helium atmosphere requires massive helium generation, storage, and circulation systems. The linear accelerator leverages this exact infrastructure, diverting the shared helium matrix to supply its closed-loop cryogenic cooling systems needed for superconducting RF cavities and magnets.
+* 
 * **Vibration and Thermal Isolation:** The extreme deep-bedrock depth shields the accelerator from surface acoustic, mechanical, and atmospheric noise, guaranteeing beam alignment stability across hundreds of kilometers.
+
+* **Closed-Loop Helium Purification:** To prevent degradation of thermodynamic efficiency from outgassing or air ingress, the system utilizes a continuous, closed-loop purification cycle. The evacuation pumps pull cross-system vacuums, strip out localized atmospheric contaminants to vent safely into the 1 atm ambient air plenum, and return 100% of the purified helium back into the active pressure matrix, preventing mass gas loss over extended timelines.
+
+* **Diagram/Drawing:** *
+
+[ Ambient Air 1 atm ] <--- (Contamination) <--- [ EVACUATION PUMPS ] ----->
+                                                ^                          |
+           (He Purification Loop)               |              (Purified He)
+                                                |                          \/
+  =========================== INFRASTRUCTURE SYNAPSE ===========================
+  
+   +-----------------------+      (High-P)      +--------------------------+
+   |   STAGED COMPRESSION  |------------------->|  HIGH-PRESSURE RESERVOIR |
+   +-----------------------+                    +--------------------------+
+               ^                                              |
+               | (Low-P Return)                               | (Regulated Flow)
+               |                                              v
+   +-----------------------+                    +--------------------------+
+   | PRESSURE RECUPERATION |                    |    PRESSURE DELIVERY     |
+   |   & PNEUMATIC BRAKING |                    |         MANIFOLD         |
+   +-----------------------+                    +--------------------------+
+               ^                                              |
+               |                                              | (Injected Power)
+               | (Kinetic Energy Recovery)                    v
+  =============|==============================================|=================
+               |                                              |
+               |       +------------------------------+       |
+               +-------|    SEALED TRANSIT TUBE       |<------+
+                       |                              |
+                       |   [ CAPSULE ] ---------->    |
+                       | (Monatomic Gas Medium)       |
+                       +------------------------------+
+                                       ^
+                                       | (Shared Helium Supply /
+                                       |  Boil-Off Reclamation)
+                                       v
+                       +------------------------------+
+                       |    LINEAR ACCELERATOR (LPA)  |
+                       |  (Superconducting Cryo Loop) |
+                       +------------------------------+
+
+*
+
+Caption: The above diagram shows the logical arrangement. It is not intended to be interpreted spatially.
 
 ---
 
