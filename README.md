@@ -63,11 +63,12 @@ The infrastructure does not require the invention of new vehicular technology to
 
 ## Part 3: Advanced Technology Potential and Suggested Research
 
-### 3.1 Subterranean-Exclusive Technologies
+### 3.1 Pneumatic Helium Propulsion Tube Transit System (PuMP)
 Beyond standard rail, the unique, sealed nature of this subterranean network makes it a viable testbed for advanced physics and propulsion technologies that are mechanically or environmentally impossible to deploy on the Earth's surface:
 
-* **Pneumatic Helium Propulsion Matrix:** Because the tunnel network can be completely sealed at scale, sections of the transit plenum can be flooded with a controlled, low-density helium atmosphere. This drastically reduces the aerodynamic drag coefficient ($C_d$) and eliminates the surface noise constraints of high-speed displacement.
-* **Closed-Loop Pressure Differentials:** Speculative development includes moving vehicles via high-volume pneumatic displacement pumps, manipulating localized pressure zones within the helium matrix to achieve continuous acceleration without relying on wheel-to-rail friction.
+* **Monatomic Gas as Pneumatic Media:** *Rather than altering the ambient atmosphere of the tunnel itself, dedicated transit tubes mounted to the chassis are filled with a controlled, closed-loop, low-density helium atmosphere. This drastically reduces the aerodynamic drag coefficient ($C_d$) and eliminates the surface noise constraints of high-speed displacement, while keeping the gas securely contained away from service corridors. 
+* 
+* **Closed-Loop Pressure Differentials:** Speculative development includes moving vehicles via high-volume pneumatic displacement pumps, manipulating localized pressure zones *strictly within the sealed transit tube matrix* to achieve continuous power without relying on wheel-to-rail friction. Helium has unique physical properties that allow for speeds much higher than the speed of sound in air while maintaining controlled, comfortable acceleration. Pneumatic decelleration conserves enormous amounts of energy, as the kinetic energy of the object in transit can be converted back into pressure in the closed loop system.
 
 ### 3.2 Speculative Co-Location: Co-Optical Linear Particle Accelerator
 The perfectly linear, stable, vibration-isolated nature of a deep bedrock tunnel over continental length scales creates the ideal environment for high-energy physics infrastructure. 
