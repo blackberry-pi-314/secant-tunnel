@@ -210,7 +210,7 @@ This framework explicitly discloses the co-location of the **world's largest lin
                        |  (Superconducting Cryo Loop) |
                        +------------------------------+
 
-Caption: The above diagram shows a logical arrangement of the combined pneumatic monatomic propulsion system and a linear accelerator. It is not intended to be interpreted spatially. The architecture of the secant tunnels would allow construction of the world's largest linear particle accelrator as of the date of publication.
+Caption: The above diagram shows a logical arrangement of the combined pneumatic monatomic propulsion system and a linear accelerator. It is not intended to be interpreted spatially. The architecture of the secant tunnels would allow construction of the world's first super-mach-speed pneumatic transit system AND the world's largest linear particle accelrator (as of the date of publication) side-by-side using the same infrastructure.
 
 ---
 
