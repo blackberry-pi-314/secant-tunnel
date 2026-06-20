@@ -8,7 +8,7 @@ This document serves as a public defensive publication to establish explicit **p
 
 ---
 
-## Part 1: Secant Chord Tunnel Geometry & Feasibility
+## Part 1: Secant Chord Geometry & Feasibility of the Big Straight Tunnel (the BeaST)
 
 ### 1.1 Structural Geometry & Geotechnical Benefits
 Traditional tunneling relies on standard cylindrical bores. This framework utilizes **secant chord geometry**, using overlapping circles to form a multi-lobed structural vault. The connections between the nodes are perfectly linear, allowing high speeds with no centripedal force.
@@ -66,7 +66,7 @@ Without relying on unproven or speculative technologies, the tunnel system provi
 
 ---
 
-## Part 2: Plenum & Modular Chassis System Design with Immediate Applications
+## Part 2: Modular Chassis System Design for Rigid Anchored Chassis (the RACk)
 
 ### 2.1 The Modular Chassis Concept
 The foundational infrastructure relies on a **perfectly linear, modular chassis system** embedded permanently into the tunnel structure. This chassis acts as a universal mounting and stabilization utility grid, preventing any single entity from claiming an exclusive invention on modular underground structural tracks.
@@ -103,7 +103,7 @@ The infrastructure does not require the invention of new vehicular technology to
 
 ## Part 3: Advanced Technology Potential and Suggested Research
 
-### 3.1 Pneumatic Helium Propulsion Tube Transit System (PuMP)
+### 3.1 Design of Pneumatic Helium Propulsion Tube Transit System (the PuMP)
 Beyond standard rail, the unique, sealed nature of this subterranean network makes it a viable testbed for advanced physics and propulsion technologies that are mechanically or environmentally impossible to deploy on the Earth's surface
 
 * **Diagram/Drawing:** *
