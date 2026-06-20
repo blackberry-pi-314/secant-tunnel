@@ -154,7 +154,6 @@ _________________________________________
             \            (Internal Bulkheads)                /
              \___________________|__________________________/
 
-*
 
 Caption: The above diagram is an example of one possible arrangement of tubes and service access mounted via chassis to the walls of the tunnel. Many arrangements are possible, and no particular arrangement is suggested in this project. Only that the arrangement be highly adaptable, expandable, and servicable.
 
@@ -211,11 +210,9 @@ This framework explicitly discloses the co-location of the **world's largest lin
                        |  (Superconducting Cryo Loop) |
                        +------------------------------+
 
-*
-
-Caption: The above diagram shows the logical arrangement. It is not intended to be interpreted spatially.
+Caption: The above diagram shows a logical arrangement of the combined pneumatic monatomic propulsion system and a linear accelerator. It is not intended to be interpreted spatially. The architecture of the secant tunnels would allow construction of the world's largest linear particle accelrator as of the date of publication.
 
 ---
 
 ## Part 4: IP Status & Public Domain Dedication
-By publishing these specifications openly, the authors explicitly dedicate this conceptual framework—including the specific integration of secant chord tunnel geometry, the designated Chicago-to-New York transit/arbitrage corridor, modular underground linear chassis systems, co-located linear particle accelerators utilizing shared cryogenic helium infrastructure, and the progression from conventional rail to subterranean-exclusive atmospheric propulsion—to the public domain.
+By publishing these specifications openly, the authors explicitly dedicate this conceptual framework—including the specific integration of secant chord tunnel geometry, the designated Chicago-to-New York transit/arbitrage corridor, modular underground linear chassis systems, co-located linear particle accelerators utilizing shared cryogenic helium infrastructure, and the progression from conventional rail to pneumatic monatomic propulsion via closed loop helium systems to the public domain.
